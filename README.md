@@ -1,0 +1,2 @@
+# ArrayExceptions
+Array with exceptions
